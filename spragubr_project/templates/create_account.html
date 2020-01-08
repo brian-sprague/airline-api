@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+    <title>Project - Create an Account</title>
+</head>
+<body>
+    <h1>Create an Account</h1>
+    <div>
+        Please enter your credentials below.
+    </div>
+    <form action={{ req_url }} method="post">
+        <div>
+            <label for="username">Username: </label>
+            <input type="text" name="username" id="username" required>
+        </div>
+        <div>
+            <label for="password">Password: </label>
+            <input type="text" name="password" id="password" required>
+        </div>
+        <div>
+            <input type="submit" value="Submit">
+        </div>
+    </form>
+</body>
+</html>
