@@ -4,7 +4,7 @@ An API that implements CRUD functionality for a fictional Airline by allowing th
 
 **API Spec**
 
-A PDF document containing the requirements for all endpoints and sample responses can be found in `api-spec.pdf` in the root folder. 
+A PDF document containing the requirements for all endpoints and sample responses can be found in `api-spec.pdf` in the `spragubr_project` folder. 
 
 **API URL**
 
